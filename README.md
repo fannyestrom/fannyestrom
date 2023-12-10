@@ -6,7 +6,7 @@ I am a front end developer student currently studying at Medieinstitutet.
 - Javascript
 
 #### Finished courses:
-- HTML & Javascript
+- HTML & CSS
 
 
 <!---
