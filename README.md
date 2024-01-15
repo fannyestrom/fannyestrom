@@ -3,10 +3,12 @@
 I am a front end developer student currently studying at Medieinstitutet.
 
 #### Current courses:
-- Javascript
+- API Development
 
 #### Finished courses:
 - HTML & CSS
+- Basic Javascript
+- Agile Project Work
 
 
 <!---
