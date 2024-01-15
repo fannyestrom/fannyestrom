@@ -1,6 +1,6 @@
 ### Hi there, I’m Fanny ![ezgif com-resize](https://github.com/fannyestrom/fannyestrom/assets/126021119/486b7ae2-ac95-4dd1-bdd7-59bca073ba65)
 
-I am a front end developer student currently studying at Medieinstitutet.
+I am a Front End Developer student currently studying at Medieinstitutet. 
 
 #### Current courses:
 - API Development
