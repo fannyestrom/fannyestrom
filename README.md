@@ -1,14 +1,40 @@
 ### Hi there, I’m Fanny ![ezgif com-resize](https://github.com/fannyestrom/fannyestrom/assets/126021119/486b7ae2-ac95-4dd1-bdd7-59bca073ba65)
 
-I am a Front End Developer student currently studying at Medieinstitutet. 
+Currently studying at [@Medieinstitutet](https://github.com/Medieinstitutet) to become a Front End Developer. 
 
-#### Current courses:
-- API Development
+### Current course:
+#### API Development
+- REST API & CRUD
+- Security & Validation
+- Databases – *NoSQL & SQL*
+- Database Design
+- ORM/ODM
+- Program structure for managing users & user data
 
-#### Finished courses:
-- HTML & CSS
-- Basic Javascript
-- Agile Project Work
+### Finished courses:
+#### HTML & CSS
+- Semantic HTML, CSS, Grid & Flexbox
+- Terminology & structure
+- Templates & frameworks
+- Validation & accessibility
+- Formatting
+- Code compression
+  
+#### Basic Javascript
+- Basic programming *(conditional statements, control flows, functions)*
+- Group problem solving
+- Javascript & Typescript
+- JSON
+- Debugging
+- Objects, methods, classes and interfaces
+- Organize code
+- Create & manipulate HTML
+
+#### Agile Project Work
+- Project forms - Agile and traditional
+- Tools for agile working methods
+- Sprint planning, Standups & Retrospectives
+- Carrying out project work with an agile project method
 
 
 <!---
