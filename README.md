@@ -3,6 +3,15 @@
 Currently studying at [@Medieinstitutet](https://github.com/Medieinstitutet) to become a Front End Developer. 
 
 ### Current course:
+#### Working Methodology for Developers
+- Tools, Aids and Versioning Platforms
+- Conflict Management
+- Code Refactoring
+- Development Principles
+- Code Improvement
+
+### Finished courses:
+
 #### API Development
 - REST API & CRUD
 - Security & Validation
@@ -11,15 +20,12 @@ Currently studying at [@Medieinstitutet](https://github.com/Medieinstitutet) to 
 - ORM/ODM
 - Program structure for managing users & user data
 
-### Finished courses:
-#### HTML & CSS
-- Semantic HTML, CSS, Grid & Flexbox
-- Terminology & structure
-- Templates & frameworks
-- Validation & accessibility
-- Formatting
-- Code compression
-  
+#### Agile Project Work
+- Project forms - Agile and traditional
+- Tools for agile working methods
+- Sprint planning, Standups & Retrospectives
+- Carrying out project work with an agile project method
+
 #### Basic Javascript
 - Basic programming *(conditional statements, control flows, functions)*
 - Group problem solving
@@ -29,12 +35,14 @@ Currently studying at [@Medieinstitutet](https://github.com/Medieinstitutet) to 
 - Objects, methods, classes and interfaces
 - Organize code
 - Create & manipulate HTML
-
-#### Agile Project Work
-- Project forms - Agile and traditional
-- Tools for agile working methods
-- Sprint planning, Standups & Retrospectives
-- Carrying out project work with an agile project method
+  
+#### HTML & CSS
+- Semantic HTML, CSS, Grid & Flexbox
+- Terminology & structure
+- Templates & frameworks
+- Validation & accessibility
+- Formatting
+- Code compression
 
 
 <!---
